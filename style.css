@@ -1,2 +1,6 @@
+* {
+  font-family: 'Noto Sans KR', sans-serif; }
+
 p {
+  background-color: blue;
   color: skyblue; }
